@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Newsdunia/static/css/main.abd64e84.css",
+    "main.js": "/Newsdunia/static/js/main.f11be034.js",
+    "static/js/787.4c026eef.chunk.js": "/Newsdunia/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/Newsdunia/static/media/loading.b51df3f3ec072548cb48.gif",
+    "index.html": "/Newsdunia/index.html",
+    "main.abd64e84.css.map": "/Newsdunia/static/css/main.abd64e84.css.map",
+    "main.f11be034.js.map": "/Newsdunia/static/js/main.f11be034.js.map",
+    "787.4c026eef.chunk.js.map": "/Newsdunia/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f11be034.js"
+  ]
+}
